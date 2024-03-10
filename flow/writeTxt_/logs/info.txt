@@ -14,7 +14,7 @@ src_lang: mar_Deva tgt_lang: eng_Latn ai4bharat/indictrans2-indic-en-dist-200M
 **** PIPEERROR IN 202401011122027728.pdf --> para 202401011122027728.pdf:Page_idx: 0 3 <-> [(0, 12)]
   exec_task: pdf_cid_info 
   exec_task: pdf_cid_reader 
-	202401181307456928.pdf missing_cmaps: nirmalaui, dvotsurekhmrnormal, sakalmarathinormal, dvotsurekhmrbold
+	202401181307456928.pdf missing_cmaps: nirmalaui, dvotsurekhmrbold, dvotsurekhmrnormal, sakalmarathinormal
   exec_task: word_recognizer 
 	Tesseract on page: 0
 	Tesseract on page: 1
@@ -32,7 +32,7 @@ src_lang: mar_Deva tgt_lang: eng_Latn ai4bharat/indictrans2-indic-en-dist-200M
 **** PIPEERROR IN 202401181307456928.pdf --> para 202401181307456928.pdf:Page_idx: 1 3 <-> [(0, 14)]
   exec_task: pdf_cid_info 
   exec_task: pdf_cid_reader 
-	202401241139514728.pdf missing_cmaps: nirmalaui, dvotsurekhmrnormal, sakalmarathinormal, dvotsurekhmrbold
+	202401241139514728.pdf missing_cmaps: nirmalaui, dvotsurekhmrbold, dvotsurekhmrnormal, sakalmarathinormal
   exec_task: word_recognizer 
 	Tesseract on page: 3
 	Tesseract on page: 4
@@ -256,7 +256,7 @@ src_lang: mar_Deva tgt_lang: eng_Latn ai4bharat/indictrans2-indic-en-dist-200M
 **** PIPEERROR IN 202401241139514728.pdf --> para 202401241139514728.pdf:Page_idx: 3 5 <-> [(0, 3), (0, 4)]
   exec_task: pdf_cid_info 
   exec_task: pdf_cid_reader 
-	202401251051156328.pdf missing_cmaps: nirmalaui, dvotsurekhmrnormal, sakalmarathinormal, dvotsurekhmrbold
+	202401251051156328.pdf missing_cmaps: nirmalaui, dvotsurekhmrbold, dvotsurekhmrnormal, sakalmarathinormal
   exec_task: word_recognizer 
 	Tesseract on page: 0
 	Tesseract on page: 1
@@ -272,7 +272,7 @@ src_lang: mar_Deva tgt_lang: eng_Latn ai4bharat/indictrans2-indic-en-dist-200M
 **** PIPEERROR IN 202401251051156328.pdf --> para 202401251051156328.pdf:Page_idx: 1 2 <-> [(0, 17)]
   exec_task: pdf_cid_info 
   exec_task: pdf_cid_reader 
-	202401251726131428.pdf missing_cmaps: nirmalaui, sakalmarathinormal, dvotsurekhmrbold, nirmalauibold, dvotsurekhmrnormal
+	202401251726131428.pdf missing_cmaps: dvotsurekhmrnormal, sakalmarathinormal, nirmalaui, dvotsurekhmrbold, nirmalauibold
   exec_task: word_recognizer 
 	Tesseract on page: 0
 	Tesseract on page: 1
@@ -289,7 +289,7 @@ src_lang: mar_Deva tgt_lang: eng_Latn ai4bharat/indictrans2-indic-en-dist-200M
 **** PIPEERROR IN 202401251726131428.pdf --> para 202401251726131428.pdf:Page_idx: 1 6 <-> [(0, 5)]
   exec_task: pdf_cid_info 
   exec_task: pdf_cid_reader 
-	202402151651119528.pdf missing_cmaps: nirmalaui, mangal, sakalmarathinormal, dvotsurekhmrbold, nirmalauibold, dvotsurekhmrnormal
+	202402151651119528.pdf missing_cmaps: dvotsurekhmrnormal, mangal, sakalmarathinormal, nirmalaui, dvotsurekhmrbold, nirmalauibold
   exec_task: word_recognizer 
 	Tesseract on page: 0
 	Tesseract on page: 1
@@ -304,7 +304,7 @@ src_lang: mar_Deva tgt_lang: eng_Latn ai4bharat/indictrans2-indic-en-dist-200M
 **** PIPEERROR IN 202402151651119528.pdf --> para 202402151651119528.pdf:Page_idx: 4 2 <-> [(0, 3)]
   exec_task: pdf_cid_info 
   exec_task: pdf_cid_reader 
-	202402161024200728.pdf missing_cmaps: nirmalaui, mangal, sakalmarathinormal, dvotsurekhmrbold, nirmalauibold, dvotsurekhmrnormal
+	202402161024200728.pdf missing_cmaps: dvotsurekhmrnormal, mangal, sakalmarathinormal, nirmalaui, dvotsurekhmrbold, nirmalauibold
   exec_task: word_recognizer 
 	Tesseract on page: 0
 	Tesseract on page: 1
@@ -321,7 +321,7 @@ src_lang: mar_Deva tgt_lang: eng_Latn ai4bharat/indictrans2-indic-en-dist-200M
 **** PIPEERROR IN 202402161024200728.pdf --> para 202402161024200728.pdf:Page_idx: 1 3 <-> [(0, 9)]
   exec_task: pdf_cid_info 
   exec_task: pdf_cid_reader 
-	202402161024303528.pdf missing_cmaps: nirmalaui, mangal, sakalmarathinormal, dvotsurekhmrbold, nirmalauibold, dvotsurekhmrnormal
+	202402161024303528.pdf missing_cmaps: dvotsurekhmrnormal, mangal, sakalmarathinormal, nirmalaui, dvotsurekhmrbold, nirmalauibold
   exec_task: word_recognizer 
 	Tesseract on page: 0
 	Tesseract on page: 1
@@ -337,7 +337,7 @@ src_lang: mar_Deva tgt_lang: eng_Latn ai4bharat/indictrans2-indic-en-dist-200M
 **** PIPEERROR IN 202402161024303528.pdf --> para 202402161024303528.pdf:Page_idx: 1 2 <-> [(0, 19)]
   exec_task: pdf_cid_info 
   exec_task: pdf_cid_reader 
-	202403041049387428.pdf missing_cmaps: nirmalaui, mangal, sakalmarathinormal, dvotsurekhmrbold, nirmalauibold, dvotsurekhmrnormal
+	202403041049387428.pdf missing_cmaps: dvotsurekhmrnormal, mangal, sakalmarathinormal, nirmalaui, dvotsurekhmrbold, nirmalauibold
   exec_task: word_recognizer 
 	Tesseract on page: 0
 	Tesseract on page: 1
