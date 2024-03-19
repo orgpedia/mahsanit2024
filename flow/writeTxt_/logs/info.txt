@@ -14,7 +14,7 @@ src_lang: mar_Deva tgt_lang: eng_Latn ai4bharat/indictrans2-indic-en-dist-200M
 **** PIPEERROR IN 202401011122027728.pdf --> para 202401011122027728.pdf:Page_idx: 0 3 <-> [(0, 12)]
   exec_task: pdf_cid_info 
   exec_task: pdf_cid_reader 
-	202401181307456928.pdf missing_cmaps: nirmalaui, sakalmarathinormal, dvotsurekhmrbold, dvotsurekhmrnormal
+	202401181307456928.pdf missing_cmaps: dvotsurekhmrbold, sakalmarathinormal, dvotsurekhmrnormal, nirmalaui
   exec_task: word_recognizer 
 	Tesseract on page: 0
 	Tesseract on page: 1
@@ -32,7 +32,7 @@ src_lang: mar_Deva tgt_lang: eng_Latn ai4bharat/indictrans2-indic-en-dist-200M
 **** PIPEERROR IN 202401181307456928.pdf --> para 202401181307456928.pdf:Page_idx: 1 3 <-> [(0, 14)]
   exec_task: pdf_cid_info 
   exec_task: pdf_cid_reader 
-	202401241139514728.pdf missing_cmaps: nirmalaui, sakalmarathinormal, dvotsurekhmrbold, dvotsurekhmrnormal
+	202401241139514728.pdf missing_cmaps: dvotsurekhmrbold, sakalmarathinormal, dvotsurekhmrnormal, nirmalaui
   exec_task: word_recognizer 
 	Tesseract on page: 3
 	Tesseract on page: 4
@@ -256,7 +256,7 @@ src_lang: mar_Deva tgt_lang: eng_Latn ai4bharat/indictrans2-indic-en-dist-200M
 **** PIPEERROR IN 202401241139514728.pdf --> para 202401241139514728.pdf:Page_idx: 3 5 <-> [(0, 3), (0, 4)]
   exec_task: pdf_cid_info 
   exec_task: pdf_cid_reader 
-	202401251051156328.pdf missing_cmaps: nirmalaui, sakalmarathinormal, dvotsurekhmrbold, dvotsurekhmrnormal
+	202401251051156328.pdf missing_cmaps: dvotsurekhmrbold, sakalmarathinormal, dvotsurekhmrnormal, nirmalaui
   exec_task: word_recognizer 
 	Tesseract on page: 0
 	Tesseract on page: 1
@@ -272,7 +272,7 @@ src_lang: mar_Deva tgt_lang: eng_Latn ai4bharat/indictrans2-indic-en-dist-200M
 **** PIPEERROR IN 202401251051156328.pdf --> para 202401251051156328.pdf:Page_idx: 1 2 <-> [(0, 17)]
   exec_task: pdf_cid_info 
   exec_task: pdf_cid_reader 
-	202401251726131428.pdf missing_cmaps: nirmalaui, sakalmarathinormal, dvotsurekhmrnormal, dvotsurekhmrbold, nirmalauibold
+	202401251726131428.pdf missing_cmaps: sakalmarathinormal, nirmalaui, dvotsurekhmrbold, dvotsurekhmrnormal, nirmalauibold
   exec_task: word_recognizer 
 	Tesseract on page: 0
 	Tesseract on page: 1
@@ -289,7 +289,7 @@ src_lang: mar_Deva tgt_lang: eng_Latn ai4bharat/indictrans2-indic-en-dist-200M
 **** PIPEERROR IN 202401251726131428.pdf --> para 202401251726131428.pdf:Page_idx: 1 6 <-> [(0, 5)]
   exec_task: pdf_cid_info 
   exec_task: pdf_cid_reader 
-	202402151651119528.pdf missing_cmaps: nirmalaui, sakalmarathinormal, dvotsurekhmrnormal, mangal, dvotsurekhmrbold, nirmalauibold
+	202402151651119528.pdf missing_cmaps: sakalmarathinormal, nirmalaui, dvotsurekhmrbold, dvotsurekhmrnormal, nirmalauibold, mangal
   exec_task: word_recognizer 
 	Tesseract on page: 0
 	Tesseract on page: 1
@@ -304,7 +304,7 @@ src_lang: mar_Deva tgt_lang: eng_Latn ai4bharat/indictrans2-indic-en-dist-200M
 **** PIPEERROR IN 202402151651119528.pdf --> para 202402151651119528.pdf:Page_idx: 4 2 <-> [(0, 3)]
   exec_task: pdf_cid_info 
   exec_task: pdf_cid_reader 
-	202402161024200728.pdf missing_cmaps: nirmalaui, sakalmarathinormal, dvotsurekhmrnormal, mangal, dvotsurekhmrbold, nirmalauibold
+	202402161024200728.pdf missing_cmaps: sakalmarathinormal, nirmalaui, dvotsurekhmrbold, dvotsurekhmrnormal, nirmalauibold, mangal
   exec_task: word_recognizer 
 	Tesseract on page: 0
 	Tesseract on page: 1
@@ -321,7 +321,7 @@ src_lang: mar_Deva tgt_lang: eng_Latn ai4bharat/indictrans2-indic-en-dist-200M
 **** PIPEERROR IN 202402161024200728.pdf --> para 202402161024200728.pdf:Page_idx: 1 3 <-> [(0, 9)]
   exec_task: pdf_cid_info 
   exec_task: pdf_cid_reader 
-	202402161024303528.pdf missing_cmaps: nirmalaui, sakalmarathinormal, dvotsurekhmrnormal, mangal, dvotsurekhmrbold, nirmalauibold
+	202402161024303528.pdf missing_cmaps: sakalmarathinormal, nirmalaui, dvotsurekhmrbold, dvotsurekhmrnormal, nirmalauibold, mangal
   exec_task: word_recognizer 
 	Tesseract on page: 0
 	Tesseract on page: 1
@@ -337,7 +337,7 @@ src_lang: mar_Deva tgt_lang: eng_Latn ai4bharat/indictrans2-indic-en-dist-200M
 **** PIPEERROR IN 202402161024303528.pdf --> para 202402161024303528.pdf:Page_idx: 1 2 <-> [(0, 19)]
   exec_task: pdf_cid_info 
   exec_task: pdf_cid_reader 
-	202403041049387428.pdf missing_cmaps: nirmalaui, sakalmarathinormal, dvotsurekhmrnormal, mangal, dvotsurekhmrbold, nirmalauibold
+	202403041049387428.pdf missing_cmaps: sakalmarathinormal, nirmalaui, dvotsurekhmrbold, dvotsurekhmrnormal, nirmalauibold, mangal
   exec_task: word_recognizer 
 	Tesseract on page: 0
 	Tesseract on page: 1
@@ -350,7 +350,7 @@ src_lang: mar_Deva tgt_lang: eng_Latn ai4bharat/indictrans2-indic-en-dist-200M
 **** PIPEERROR IN 202403041049387428.pdf --> para 202403041049387428.pdf:Page_idx: 1 1 <-> [(0, 19), (0, 20)]
   exec_task: pdf_cid_info 
   exec_task: pdf_cid_reader 
-	202403131639116628.pdf missing_cmaps: nirmalaui, sakalmarathinormal, dvotsurekhmrnormal, mangal, dvotsurekhmrbold, nirmalauibold
+	202403131639116628.pdf missing_cmaps: sakalmarathinormal, nirmalaui, dvotsurekhmrbold, dvotsurekhmrnormal, nirmalauibold, mangal
   exec_task: word_recognizer 
 	Tesseract on page: 0
 	Tesseract on page: 1
@@ -364,7 +364,7 @@ src_lang: mar_Deva tgt_lang: eng_Latn ai4bharat/indictrans2-indic-en-dist-200M
 **** PIPEERROR IN 202403131639116628.pdf --> para 202403131639116628.pdf:Page_idx: 4 2 <-> [(0, 3)]
   exec_task: pdf_cid_info 
   exec_task: pdf_cid_reader 
-	202403131639195228.pdf missing_cmaps: nirmalaui, sakalmarathinormal, dvotsurekhmrnormal, mangal, dvotsurekhmrbold, nirmalauibold
+	202403131639195228.pdf missing_cmaps: sakalmarathinormal, nirmalaui, dvotsurekhmrbold, dvotsurekhmrnormal, nirmalauibold, mangal
   exec_task: word_recognizer 
 	Tesseract on page: 0
 	Tesseract on page: 1
@@ -379,199 +379,4 @@ src_lang: mar_Deva tgt_lang: eng_Latn ai4bharat/indictrans2-indic-en-dist-200M
   exec_task: line_finder 
   exec_task: para_finder 
 **** PIPEERROR IN 202403131639195228.pdf --> para 202403131639195228.pdf:Page_idx: 1 3 <-> [(0, 12)]
-  exec_task: pdf_cid_info 
-  exec_task: pdf_cid_reader 
-	202403141545284928.pdf missing_cmaps: dvotsurekhmr, nirmalaui, sakalmarathinormal, dvotsurekhmrnormal, mangal, dvotsurekhmrbold, nirmalauibold
-  exec_task: word_recognizer 
-	Tesseract on page: 0
-	Tesseract on page: 1
-	Tesseract on page: 2
-	Tesseract on page: 3
-  exec_task: pdftable_finder 
-	==Total:0 Errors=0 
-  exec_task: line_finder 
-  exec_task: para_finder 
-  exec_task: extract_order_number 
-	extract_order_number:202403141545284928.pdf: >शासन निर्णय क्रमांक< >सुप्रमा-२०२३/प्र.क्र. १८७/पापु १३<
-	elapsed_time:202403141545284928.pdf: 0.000095
-  exec_task: doc_translator_hf 
-    Paras: #53 Sentences: #0
-	[0]  #words: 264 #sentences: 53
-	After generate: 4 MB
-	[1]  #words: 262 #sentences: 21
-	After generate: 4 MB
-	[2]  #words: 265 #sentences: 13
-	After generate: 4 MB
-	[3]  #words: 262 #sentences: 8
-	After generate: 4 MB
-  exec_task: text_writer 
-  exec_task: pdf_cid_info 
-  exec_task: pdf_cid_reader 
-	202403141545337028.pdf missing_cmaps: dvotsurekhmr, nirmalaui, sakalmarathinormal, dvotsurekhmrnormal, mangal, dvotsurekhmrbold, nirmalauibold
-  exec_task: word_recognizer 
-	Tesseract on page: 0
-	Tesseract on page: 1
-	Tesseract on page: 2
-	Tesseract on page: 3
-  exec_task: pdftable_finder 
-	==Total:0 Errors=0 
-  exec_task: line_finder 
-  exec_task: para_finder 
-  exec_task: extract_order_number 
-	extract_order_number:202403141545337028.pdf: >शासन निर्णय क्रमांक< >सुप्रमा-२०२४/प्र.क्र. ५/पापु १३<
-	elapsed_time:202403141545337028.pdf: 0.000089
-  exec_task: doc_translator_hf 
-    Paras: #53 Sentences: #0
-	[0]  #words: 264 #sentences: 54
-	After generate: 11 MB
-	[1]  #words: 263 #sentences: 19
-	After generate: 11 MB
-	[2]  #words: 258 #sentences: 12
-	After generate: 11 MB
-	[3]  #words: 234 #sentences: 8
-	After generate: 11 MB
-  exec_task: text_writer 
-  exec_task: pdf_cid_info 
-  exec_task: pdf_cid_reader 
-	202403141545384428.pdf missing_cmaps: dvotsurekhmr, nirmalaui, sakalmarathinormal, dvotsurekhmrnormal, mangal, dvotsurekhmrbold, nirmalauibold
-  exec_task: word_recognizer 
-	Tesseract on page: 0
-	Tesseract on page: 1
-	Tesseract on page: 2
-	Tesseract on page: 3
-  exec_task: pdftable_finder 
-	==Total:0 Errors=0 
-  exec_task: line_finder 
-  exec_task: para_finder 
-  exec_task: extract_order_number 
-	extract_order_number:202403141545384428.pdf: >शासन निर्णय क्रमांक< >सुप्रमा-२०२३/प्र.क्र. १८७/पापु १३<
-	elapsed_time:202403141545384428.pdf: 0.000111
-  exec_task: doc_translator_hf 
-    Paras: #36 Sentences: #0
-	[0]  #words: 257 #sentences: 42
-	After generate: 11 MB
-	[1]  #words: 264 #sentences: 17
-	After generate: 11 MB
-	[2]  #words: 276 #sentences: 11
-	After generate: 11 MB
-  exec_task: text_writer 
-  exec_task: pdf_cid_info 
-  exec_task: pdf_cid_reader 
-	202403141545456528.pdf missing_cmaps: dvotsurekhmr, nirmalaui, sakalmarathinormal, dvotsurekhmrnormal, mangal, dvotsurekhmrbold, nirmalauibold
-  exec_task: word_recognizer 
-	Tesseract on page: 0
-	Tesseract on page: 1
-	Tesseract on page: 2
-	Tesseract on page: 3
-  exec_task: pdftable_finder 
-	==Total:0 Errors=0 
-  exec_task: line_finder 
-  exec_task: para_finder 
-  exec_task: extract_order_number 
-	extract_order_number:202403141545456528.pdf: >शासन निर्णय क्रमांक< >सुप्रमा-२०२३/प्र.क्र. १८७/पापु १३<
-	elapsed_time:202403141545456528.pdf: 0.000106
-  exec_task: doc_translator_hf 
-    Paras: #39 Sentences: #0
-	[0]  #words: 268 #sentences: 46
-	After generate: 11 MB
-	[1]  #words: 263 #sentences: 17
-	After generate: 11 MB
-	[2]  #words: 282 #sentences: 11
-	After generate: 11 MB
-  exec_task: text_writer 
-  exec_task: pdf_cid_info 
-  exec_task: pdf_cid_reader 
-	202403141545506628.pdf missing_cmaps: dvotsurekhmr, nirmalaui, sakalmarathinormal, dvotsurekhmrnormal, mangal, dvotsurekhmrbold, nirmalauibold
-  exec_task: word_recognizer 
-	Replaced 0:28 >(dvotsurekhmrbold-cid:119)(dvotsurekhmrbold-cid:126)(dvotsurekhmrbold-cid:290)(dvotsurekhmrbold-cid:109)(dvotsurekhmrbold-cid:123)<  >पुतना<
-	Replaced 0:30 >(dvotsurekhmrbold-cid:21)(dvotsurekhmrbold-cid:19)(dvotsurekhmrbold-cid:21)(dvotsurekhmrbold-cid:22)(dvotsurekhmrbold-cid:18)(dvotsurekhmrbold-cid:290)(dvotsurekhmrbold-cid:17)(dvotsurekhmrbold-cid:270)(dvotsurekhmrbold-cid:17)<  >९०२९२/*.त्.<
-	Replaced 0:31 >(dvotsurekhmrbold-cid:20)(dvotsurekhmrbold-cid:19)(dvotsurekhmrbold-cid:21)<  >९०९<
-	Replaced 0:32 >(dvotsurekhmrbold-cid:18)(dvotsurekhmrbold-cid:105)(dvotsurekhmrbold-cid:123)(dvotsurekhmrbold-cid:105)(dvotsurekhmrbold-cid:126)<  >[a4<
-	Replaced 0:33 >(dvotsurekhmrbold-cid:20)(dvotsurekhmrbold-cid:22)<  >९२<
-	Replaced 0:36 >No.(dvotsurekhmrbold-cid:25)(dvotsurekhmrbold-cid:25)(dvotsurekhmrbold-cid:24)(dvotsurekhmrbold-cid:23)(dvotsurekhmrbold-cid:21)(dvotsurekhmrbold-cid:19))<  >10.५६ ५०९०)<
-	Tesseract on page: 1
-	Tesseract on page: 2
-	Tesseract on page: 3
-  exec_task: pdftable_finder 
-	==Total:0 Errors=0 
-  exec_task: line_finder 
-  exec_task: para_finder 
-  exec_task: extract_order_number 
-	extract_order_number:202403141545506628.pdf: >शासन निर्णय क्रमांक< >सुप्रमा-२०२३/प्र.क्र. १०२/पापु १३<
-	elapsed_time:202403141545506628.pdf: 0.000098
-  exec_task: doc_translator_hf 
-    Paras: #58 Sentences: #0
-	[0]  #words: 261 #sentences: 51
-	After generate: 11 MB
-	[1]  #words: 260 #sentences: 20
-	After generate: 11 MB
-	[2]  #words: 265 #sentences: 10
-	After generate: 11 MB
-  exec_task: text_writer 
-  exec_task: pdf_cid_info 
-  exec_task: pdf_cid_reader 
-	202403141809234628.pdf missing_cmaps: dvotsurekhmr, nirmalaui, sakalmarathinormal, dvotsurekhmrnormal, mangal, dvotsurekhmrbold, nirmalauibold
-  exec_task: word_recognizer 
-  exec_task: pdftable_finder 
-	==Total:0 Errors=0 
-  exec_task: line_finder 
-  exec_task: para_finder 
-  exec_task: extract_order_number 
-	extract_order_number:202403141809234628.pdf: Unable to find order
-	elapsed_time:202403141809234628.pdf: 0.000039
-  exec_task: doc_translator_hf 
-    Paras: #87 Sentences: #0
-	[0]  #words: 260 #sentences: 62
-	After generate: 11 MB
-	[1]  #words: 266 #sentences: 28
-	After generate: 11 MB
-	[2]  #words: 213 #sentences: 19
-	After generate: 11 MB
-  exec_task: text_writer 
-  exec_task: pdf_cid_info 
-  exec_task: pdf_cid_reader 
-	202403151542129228.pdf missing_cmaps: dvotsurekhmr, nirmalaui, sakalmarathinormal, dvotsurekhmrnormal, mangal, dvotsurekhmrbold, nirmalauibold
-  exec_task: word_recognizer 
-	Tesseract on page: 0
-	Tesseract on page: 1
-	Tesseract on page: 2
-	Tesseract on page: 3
-  exec_task: pdftable_finder 
-	==Total:7 Errors=7 TableEmptyBodyCellError=7
-  exec_task: line_finder 
-  exec_task: para_finder 
-  exec_task: extract_order_number 
-	extract_order_number:202403151542129228.pdf: >शासन निर्णय क्रमांक< >जिपग्रा-१२२३/प्र.क्र.२१९/पापु-२३<
-	elapsed_time:202403151542129228.pdf: 0.000106
-  exec_task: doc_translator_hf 
-    Paras: #64 Sentences: #17
-	[0]  #words: 55 #sentences: 12
-	After generate: 11 MB
-	[0]  #words: 266 #sentences: 57
-	After generate: 12 MB
-	[1]  #words: 266 #sentences: 23
-	After generate: 12 MB
-	[2]  #words: 241 #sentences: 8
-	After generate: 12 MB
-  exec_task: text_writer 
-  exec_task: pdf_cid_info 
-  exec_task: pdf_cid_reader 
-	202403181157429528.pdf missing_cmaps: dvotsurekhmr, nirmalaui, sakalmarathinormal, dvotsurekhmrnormal, mangal, dvotsurekhmrbold, nirmalauibold
-  exec_task: word_recognizer 
-  exec_task: pdftable_finder 
-	==Total:0 Errors=0 
-  exec_task: line_finder 
-  exec_task: para_finder 
-  exec_task: extract_order_number 
-	extract_order_number:202403181157429528.pdf: Unable to find order
-	elapsed_time:202403181157429528.pdf: 0.000038
-  exec_task: doc_translator_hf 
-    Paras: #63 Sentences: #0
-	[0]  #words: 262 #sentences: 65
-	After generate: 12 MB
-	[1]  #words: 267 #sentences: 27
-	After generate: 12 MB
-	[2]  #words: 66 #sentences: 5
-	After generate: 12 MB
-  exec_task: text_writer 
-#docs: 162 #processed: 19
+#docs: 162 #processed: 11
